@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://s7.ezgif.com/tmp/ezgif-77b438ee99f6171e.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZoOHRsOXE1ZWdoamVwY2FjbW1iYmR0bjlmdjJxb2tqeGE2MGluMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WX9YHLdJKoKD0fBZWd/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezgif.com  
